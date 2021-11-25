@@ -4,4 +4,5 @@ In diesem Projekt wird gezeigt, wie Firebase in eine Android App integriert werd
 Insbesondere werden die Themen "Realtime Database" und "Authentifikation" behandelt.
 
 ## Installation
-Um das Projekt zu nutzen, muss nur der Branch heruntergeladen und mit Android Studio geöffnet werden
+1. Um das Projekt zu nutzen, muss der Branch heruntergeladen und mit Android Studio geöffnet werden
+2. Damit auch die eigene Firebase-Umgebung genutzt werden kann, muss in dem Verzeichnis "app" die "google-services.json" ausgetauscht werden
